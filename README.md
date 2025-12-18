@@ -10,3 +10,6 @@
 <br>
 <h2>Nessa vitrine virtual é possivel ter acesse a lista completa de produtos da hamburgueria, ter acesso a desconto de 10% clicando o segundo botão, acesso ao valor total clicando o terceiro botão
 e por fim, no quarto botao é possivel ter acesso a apenas opçoes veganas da lista!!🤩</h2>
+<br>
+<br>
+<img src="https://github.com/evelanianascimento10-cmd/hamburgueres/blob/main/Projeto%20hamburgueria.png?raw=true">
